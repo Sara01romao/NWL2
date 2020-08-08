@@ -29,7 +29,7 @@ Back-end
 <h6 align="center">   Home</h6>
 
 <p align="center">
-  <img width="auto" height="100%"  src="https://user-images.githubusercontent.com/46323667/89361772-80130e80-d6a2-11ea-9fef-5630c03b63c7.png">
+  <img max-width="auto" height="auto"  src="https://user-images.githubusercontent.com/46323667/89361772-80130e80-d6a2-11ea-9fef-5630c03b63c7.png">
 </p>
 
 
