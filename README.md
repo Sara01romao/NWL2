@@ -14,15 +14,13 @@ Projeto de uma plataforma de estudo online, que conecta professores com alunos
 <br>
 
 ## :rocket: Tecnologias Usadas
-Front-end
+Front-end Concluído
 ```
 HTML
 CSS
 Figma
 ```
-Back-end
-```
-?
+
 ```
 
 
