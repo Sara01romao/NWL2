@@ -21,9 +21,6 @@ CSS
 Figma
 ```
 
-```
-
-
 <h6 align="center">   Home</h6>
 
 <p align="center">
